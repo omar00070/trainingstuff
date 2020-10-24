@@ -1,0 +1,5 @@
+venv
+**/**/__pychache__
+**/**/settings.py
+**/node_modules
+
